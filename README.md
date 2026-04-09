@@ -160,7 +160,7 @@ pip install -r requirements.txt
 ### 测试用例表
 
 - `助农大米平台Web自动化测试用例.xlsx`
-- `助农大米平台功能测试用例.xlsx`
+- `功能测试.xlsx`
 - 表格中整理了当前自动化项目对应的用例编号、模块、步骤、预期结果以及对应脚本方法
 
 ## Quick Start

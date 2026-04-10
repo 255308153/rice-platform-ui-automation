@@ -1,6 +1,6 @@
 # Rice Platform UI Automation
 
-一个面向助农大米综合服务平台的 WebUI 自动化测试项目，基于 `Selenium + Pytest + Allure` 搭建，适合用于 GitHub 展示、课程设计答辩和面试作品集说明。
+一个面向助农大米综合服务平台的 WebUI 自动化测试项目，基于 `Selenium + Pytest + Allure` 搭建。
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pytest](https://img.shields.io/badge/Pytest-Automation-green)
@@ -13,12 +13,6 @@
 - `pytest` 配置
 - 核心测试脚本
 - 基础依赖说明
-
-未包含内容：
-
-- `allure-results`、报告文件、缓存文件
-- 本地运行痕迹
-- 与当前机器绑定的绝对路径配置
 
 ## 项目亮点
 
